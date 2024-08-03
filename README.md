@@ -1,4 +1,4 @@
-# Learning :D
+### Learning about new technologies :D
 
 <!--
 **weslayer/weslayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
