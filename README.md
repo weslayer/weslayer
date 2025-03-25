@@ -1,5 +1,10 @@
 ### Learning about new technologies :D
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weslayer&layout=compact)
+
+# Technologies I think are cool:
+
+[![My Skills](https://skillicons.dev/icons?i=py,docker,fastapi,grafana,prometheus,aws,kubernetes,terraform,nginx,bash,go)](https://skillicons.dev)
+
 <!--
 **weslayer/weslayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
