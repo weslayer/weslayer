@@ -1,5 +1,4 @@
 ## Learning about new technologies :D
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weslayer&layout=compact)
 
 ### stuff i think are cool:
 
