@@ -1,5 +1,7 @@
 ## Learning about new technologies :D
 
+Studying Software Engineering at SJSU
+
 ### stuff i think are cool:
 
 [![My Skills](https://skillicons.dev/icons?i=py,docker,fastapi,grafana,prometheus,aws,kubernetes,terraform,nginx,bash,go)](https://skillicons.dev)
